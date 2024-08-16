@@ -42,13 +42,13 @@ Dataset can be downloaded from the link: https://www.kaggle.com/datasets/caesarm
 * Capped outlier columns.
 * Addressed data imbalance.
 
-  ## Feature Engineering:
-  * Encoded Categorical variables.
-  * Included derived columns to gain more insights from the data.
-  * Selected top performing features through different methods.
+## Feature Engineering:
+* Encoded Categorical variables.
+* Included derived columns to gain more insights from the data.
+* Selected top performing features through different methods.
  
-  ## Model Development:
-  * Developed five different models and evaluated them using three different feature sets.
-  * Plotted ROC Curves.
-  * Hyper parameters are tuned for the selected model and cross-validation is done.
-  * Finally, the model is saved as 'rfclassifier.pkl'
+## Model Development:
+* Developed five different models and evaluated them using three different feature sets.
+* Plotted ROC Curves.
+* Hyper parameters are tuned for the selected model and cross-validation is done.
+* Finally, the model is saved as 'rfclassifier.pkl'
